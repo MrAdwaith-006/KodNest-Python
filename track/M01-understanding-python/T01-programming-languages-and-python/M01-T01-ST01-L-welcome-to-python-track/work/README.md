@@ -2,26 +2,26 @@
 
 ## My Name
 
-Write your name.
+Adwaith Ajay
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+I learned about psudocode, datatypes and algorthims.
 
 ## Why I Selected Python
 
-Write your reason in your own words.
+I like the language and have interest in python
 
 ## My Career Goal
 
-Write the role you want to achieve.
+I want to be a developer and work in a big tech company
 
 ## What I Understood Today
 
 Complete these sentences:
 
-Programming means:
+Programming means: It is the instructions give to a system to perform a task
 
-Python is:
+Python is: a simple programming language
 
-In this track, I will learn:
+In this track, I will learn: how to code and and create myown simple programms 
